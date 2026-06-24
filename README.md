@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
