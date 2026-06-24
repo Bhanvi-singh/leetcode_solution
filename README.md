@@ -129,5 +129,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0008-string-to-integer-atoi) |
 | [0344-reverse-string](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
