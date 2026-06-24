@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0110-balanced-binary-tree) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0110-balanced-binary-tree) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0101-symmetric-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
