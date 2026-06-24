@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
