@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0141-linked-list-cycle) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0263-ugly-number) |
 ## Dynamic Programming
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0344-reverse-string](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0344-reverse-string) |
 ## Heap (Priority Queue)
