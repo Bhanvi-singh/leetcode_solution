@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0704-binary-search) |
+| [0846-hand-of-straights](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1046-last-stone-weight) |
 | [1470-shuffle-the-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1470-shuffle-the-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0496-next-greater-element-i) |
+| [0846-hand-of-straights](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+| [0846-hand-of-straights](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
@@ -239,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0846-hand-of-straights](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0846-hand-of-straights) |
 <!---LeetCode Topics End-->
