@@ -14,8 +14,7 @@ class Solution(object):
             if freq[num] == 0:
                 continue
             for curr in range(num, num + groupSize):
-                if freq[cur
-                r] == 0:
+                if freq[curr] == 0:
                     return False
                 freq[curr] -= 1
         return True
