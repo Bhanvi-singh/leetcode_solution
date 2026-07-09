@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Tree
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1046-last-stone-weight) |
 | [1470-shuffle-the-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -251,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0846-hand-of-straights) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
