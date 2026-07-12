@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1046-last-stone-weight) |
 | [1470-shuffle-the-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1470-shuffle-the-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0846-hand-of-straights](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -262,9 +264,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
