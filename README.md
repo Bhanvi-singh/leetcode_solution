@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0645-set-mismatch](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0860-lemonade-change) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
+| [0645-set-mismatch](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0645-set-mismatch) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
