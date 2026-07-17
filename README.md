@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Tree
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0263-ugly-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Design
 |  |
 | ------- |
@@ -303,9 +308,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
@@ -316,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
