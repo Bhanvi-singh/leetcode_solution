@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0503-next-greater-element-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0846-hand-of-straights) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0860-lemonade-change) |
