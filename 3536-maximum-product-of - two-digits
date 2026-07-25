@@ -1,0 +1,30 @@
+class Solution(object):
+    def maxProduct(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        # brute apporach
+        """digits = []
+        while n > 0:
+            digits.append(n % 10)
+            n //= 10
+
+    
+        ans = 0
+        for i in range(len(digits)):
+            for j in range(i + 1, len(digits)):
+                ans = max(ans, digits[i] * digits[j])
+        return ans"""
+        # optimal apporach
+        largest = 0
+        seclargest = 0
+        while n > 0:
+            digit =  n % 10
+            if digit >= largest:
+                seclargest = largest
+                largest = digit
+            elif digit  > seclargest:
+                seclargest = digit
+            n //= 10
+        return largest * seclargest
