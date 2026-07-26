@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0846-hand-of-straights) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0263-ugly-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
