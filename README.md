@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -377,4 +380,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
