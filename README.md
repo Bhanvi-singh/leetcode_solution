@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1260-shift-2d-grid) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1406-stone-game-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -381,4 +384,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
