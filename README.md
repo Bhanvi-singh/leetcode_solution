@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3312-sorted-gcd-pair-queries) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -439,4 +441,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
