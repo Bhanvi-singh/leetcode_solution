@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3310-remove-methods-from-project) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0101-symmetric-tree) |
+| [0547-number-of-provinces](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0994-rotting-oranges) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3310-remove-methods-from-project) |
 ## Nim Game
 |  |
@@ -471,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
