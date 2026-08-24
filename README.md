@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0035-search-insert-position) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0344-reverse-string) |
@@ -502,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0547-number-of-provinces) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
