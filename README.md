@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
