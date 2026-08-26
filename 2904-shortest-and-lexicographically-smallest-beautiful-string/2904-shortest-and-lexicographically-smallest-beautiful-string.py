@@ -1,0 +1,32 @@
+class Solution(object):
+    def shortestBeautifulSubstring(self, s, k):
+        """
+        :type s: str
+        :type k: int
+        :rtype: str
+        """
+        left = 0
+        count = 0
+        ans = ""
+
+        for right in range(len(s)):
+            if s[right] == '1':
+                count += 1
+
+            while count > k:
+                if s[left] == '1':
+                    count -= 1
+                left += 1
+
+            if count == k:
+                while left <= right and s[left] == '0':
+                    left += 1
+
+                curr = s[left:right + 1]
+
+                if ans == "" or len(curr) < len(ans) or \
+                   (len(curr) == len(ans) and curr < ans):
+                    ans = curr
+
+        return ans
+        
