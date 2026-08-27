@@ -1,0 +1,57 @@
+class Solution(object):
+    def lexGreaterPermutation(self, s, target):
+        cnt = [0] * 26
+
+        for ch in s:
+            cnt[ord(ch) - 97] += 1
+
+        ans = []
+
+        for i in range(len(target)):
+            x = ord(target[i]) - 97
+
+            # Try to keep target[i]
+            if cnt[x] > 0:
+                cnt[x] -= 1
+                ans.append(target[i])
+                continue
+
+            # Cannot match target[i].
+            # Find smallest greater character.
+            for j in range(x + 1, 26):
+                if cnt[j] > 0:
+                    cnt[j] -= 1
+
+                    result = ''.join(ans)
+                    result += chr(j + 97)
+
+                    for k in range(26):
+                        result += chr(k + 97) * cnt[k]
+
+                    return result
+
+            # Need to backtrack
+            break
+
+        # Backtrack
+        while ans:
+            ch = ans.pop()
+            x = ord(ch) - 97
+            cnt[x] += 1
+
+            target_pos = len(ans)
+            target_char = ord(target[target_pos]) - 97
+
+            for j in range(target_char + 1, 26):
+                if cnt[j] > 0:
+                    cnt[j] -= 1
+
+                    result = ''.join(ans)
+                    result += chr(j + 97)
+
+                    for k in range(26):
+                        result += chr(k + 97) * cnt[k]
+
+                    return result
+
+        return ""
