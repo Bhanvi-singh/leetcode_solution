@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0435-non-overlapping-intervals) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhanvi-singh/leetcode_solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
